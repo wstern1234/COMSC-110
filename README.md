@@ -4,5 +4,5 @@ Here are some mini-programs I wrote in C++ that I thought were helpful, cool, an
 
 <br />
 
-###### Thanks for stopping by,
+##### Thanks for stopping by,
 ## Wills
