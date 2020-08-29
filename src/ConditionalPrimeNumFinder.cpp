@@ -1,7 +1,6 @@
 //
-//  main.cpp
-//  PrimeNumFinderExcept_It_Is_ReallyComplicated
-//
+//  ConditionalPrimeNumFinder.cpp
+//  
 //  Created by Wills Stern on 7/16/20.
 //  Copyright © 2020 Wills Stern. All rights reserved.
 //
