@@ -1,6 +1,5 @@
 //
-//  main.cpp
-//  SternComputingAlgorithm
+//  RecursiveAlgoExample.cpp
 //
 //  Created by Wills Stern on 7/17/20.
 //  Copyright © 2020 Wills Stern. All rights reserved.
