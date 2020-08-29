@@ -1,6 +1,5 @@
 //
-//  main.cpp
-//  BinarySearchAlgo
+//  BinarySearchAlgo.cpp
 //
 //  Created by Wills Stern on 8/4/20.
 //  Copyright © 2020 Wills Stern. All rights reserved.
