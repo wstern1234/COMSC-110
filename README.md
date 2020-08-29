@@ -1,2 +1,2 @@
 # CPP-Projects
-Some cool and weird mini-programs in C++
+Some mini-programs I wrote in C++ that I thought were helpful, cool and/or weird.
