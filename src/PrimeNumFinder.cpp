@@ -1,6 +1,5 @@
 //
-//  main.cpp
-//  PrimeNumberFinder
+//  PrimeNumFinder.cpp
 //
 //  Created by Wills Stern on 7/9/20.
 //  Copyright © 2020 Wills Stern. All rights reserved.
