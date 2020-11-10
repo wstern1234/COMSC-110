@@ -1,8 +1,5 @@
-// Identification comments code block
-// Wills Stern
-// Lab 5, Tracking Expenses with Arrays
-// Editor(s) used: VS Code
-// Compiler(s) used: g++
+// Author: Wills Stern
+// Purpose: To use a struct array to keep track of expenses
 
 
 #include <iostream>
@@ -42,11 +39,7 @@ struct Expense
 int main()
 {
 
-  // identification output code block
   cout << "Wills Stern\n\n";
-  cout << "Lab 5, Tracking Expenses with Arrays\n";
-  cout << "Editor(s) used: VSCode\n";
-  cout << "Compiler(s) used: g++\n";
   cout << "File: " << __FILE__ << "\n";
   cout << "Compiled: " << __DATE__ << " at " << __TIME__ << "\n\n\n\n";
 
