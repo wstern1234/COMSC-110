@@ -1,8 +1,5 @@
-// Identification comments code block
-// Wills Stern
-// Lab 3, Student Objects With Serializing Down
-// Editor(s) used: VS Code
-// Compiler(s) used: g++
+// Author: Wills Stern
+// Purpose: To practice (basic) serializing up for a struct array
 
 
 #include <iostream>
@@ -45,11 +42,7 @@ void serializeUp(Student, Student, Student);
 int main()
 {
 
-  // identification output code block
   cout << "Wills Stern\n\n";
-  cout << "Lab 3, Student Objects With Serializing Down\n";
-  cout << "Editor(s) used: VSCode\n";
-  cout << "Compiler(s) used: g++\n";
   cout << "File: " << __FILE__ << "\n";
   cout << "Compiled: " << __DATE__ << " at " << __TIME__ << "\n\n";
 
