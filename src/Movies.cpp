@@ -1,4 +1,4 @@
-// Wills Stern
+// Author: Wills Stern
 // Purpose: To use a linked list to keep track of movies
 
 
@@ -55,7 +55,6 @@ string toLowerCase(string);
 int main()
 {
 
-  // identification output code block
   cout << "Wills Stern\n\n";
   cout << "File: " << __FILE__ << "\n";
   cout << "Compiled: " << __DATE__ << " at " << __TIME__ << "\n\n\n\n";
