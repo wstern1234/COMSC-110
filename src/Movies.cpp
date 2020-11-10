@@ -1,8 +1,5 @@
-// Identification comments code block
 // Wills Stern
-// Lab 6, Linked Lists
-// Editor(s) used: VS Code
-// Compiler(s) used: g++
+// Purpose: To use a linked list to keep track of movies
 
 
 #include <iostream>
@@ -60,9 +57,6 @@ int main()
 
   // identification output code block
   cout << "Wills Stern\n\n";
-  cout << "Lab 6, Linked Lists\n";
-  cout << "Editor(s) used: VSCode\n";
-  cout << "Compiler(s) used: g++\n";
   cout << "File: " << __FILE__ << "\n";
   cout << "Compiled: " << __DATE__ << " at " << __TIME__ << "\n\n\n\n";
 
