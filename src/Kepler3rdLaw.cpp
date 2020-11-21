@@ -42,6 +42,7 @@ int main()
   while (true)
   {
     // menu with two options
+    cout << "p² = a³\n\n";
     cout << "Options:\n";
     cout << " P: find orbital Period\n";
     cout << " A: find distance in AU" << endl;
@@ -88,8 +89,8 @@ double findPeriod()
   cin >> buf; double distance = atof(buf.c_str());
 
 
-  // Kelper's 3rd Law of Planetary Motion: p^2 = a^3
-  // ...becomes p = a^(3.0/2)
+  // Kelper's 3rd Law of Planetary Motion: p² = a³
+  // ...becomes p = a⁽³ᐟ²⁾
   return ( sqrt(pow(distance, 3)) );
 
 }
@@ -115,8 +116,8 @@ double findAU()
   cin >> buf; double period = atof(buf.c_str());
 
 
-  // Kelper's 3rd Law of Planetary Motion: p^2 = a^3
-  // ...becomes a = p^(2.0/3)
+  // Kelper's 3rd Law of Planetary Motion: p² = a³
+  // ...becomes a = p⁽²ᐟ³⁾
   return ( cbrt(pow(period, 2)) );
 
 }
